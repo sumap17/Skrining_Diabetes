@@ -1,0 +1,34 @@
+{
+    "optimal_threshold": 0.3562195897102356,
+    "feature_names": [
+        "age",
+        "hypertension",
+        "heart_disease",
+        "bmi",
+        "HbA1c_level",
+        "blood_glucose_level",
+        "gender_Male",
+        "gender_Other",
+        "smoking_history_current",
+        "smoking_history_ever",
+        "smoking_history_former",
+        "smoking_history_never",
+        "smoking_history_not current"
+    ],
+    "scaler_mean": [
+        41.749598526046775,
+        0.07794716353154438,
+        0.04084574009687676,
+        27.305729398829158,
+        5.530281418085644,
+        138.10545006091942
+    ],
+    "scaler_scale": [
+        22.453596902549403,
+        0.26808842427253565,
+        0.1979327300191031,
+        6.748409822348136,
+        1.0738275008671996,
+        40.91478198131733
+    ]
+}
